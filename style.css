@@ -1,0 +1,20 @@
+.text {
+    position: fixed;
+    text-shadow: 5px 4px 10px #888;
+    font-size: 1.25em;
+}
+
+#tomorrow {
+    left: 20%;
+    top: 40%;
+}
+
+#now {
+    top: -20%;
+    right: 30%;
+}
+
+#start {
+    top: 100%;
+    right: 35%;
+}
