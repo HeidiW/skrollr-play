@@ -1,12 +1,17 @@
-.text {
-    position: fixed;
-    text-shadow: 5px 4px 10px #888;
-    font-size: 1.25em;
+body {
+	background-color: #F0EC00;
 }
 
-#tomorrow {
+.text {
+    position: fixed;
+    font-family: 'Lato', sans-serif;
+    text-shadow: 5px 4px 10px #888;
+    font-size: 2em;
+}
+
+#name {
     left: 20%;
-    top: 40%;
+    top: 50%;
 }
 
 #now {
